@@ -1,2 +1,3 @@
 env/
 react-crud/node_modules/
+.dbdata/
